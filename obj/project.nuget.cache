@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "/HweKVviBlXqJdIMkgcbUdYFVGioqzJ6kGJ3Mg+zUREz45G2E/1rpOE3zQUtcW2ulhBMVvh+aZuJlXh/Y4QJzg==",
+  "success": true,
+  "projectFilePath": "C:\\Code\\Projects\\JonDJones.Net6.StarterKit\\JonDJones.Net6.StarterKit.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.episerver.com/feed/packages.svc/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
